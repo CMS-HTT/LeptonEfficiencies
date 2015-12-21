@@ -1,4 +1,4 @@
-#include "DesyTauAnalyses/NTupleMaker/interface/ScaleFactor.h"
+#include "ScaleFactor.h"
 
 
 void ScaleFactor::init_ScaleFactor(TString inputRootFile){
